@@ -7,6 +7,10 @@ author: [Nick Kaye](http://www.nickkaye.com)
 
 View the [live demo](http://nickckaye.github.io/angularjs-tutorial-1).
 
+<div>
+		<img src="https://img.cdn.aliyun.dcloud.net.cn/guide/uniapp/app_download.png" width="200"/>
+		<img src="https://img.cdn.aliyun.dcloud.net.cn/guide/uniapp/gh_33446d7f7a26_430.jpg" width="200"/>
+</div>
 
 <div style="display:flex;justify-content: space-around;">
 	<div style="display:flex;align-items: center;flex-direction: column;">
