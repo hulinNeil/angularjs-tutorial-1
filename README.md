@@ -13,5 +13,6 @@ View the [live demo](http://nickckaye.github.io/angularjs-tutorial-1).
 </center >
 <p align="center">
 		<a href="http://mpvue.com" target="_blank" rel="noopener noreferrer"><img width="100" src="https://img.cdn.aliyun.dcloud.net.cn/guide/uniapp/gh_33446d7f7a26_430.jpg" alt="mpvue logo"></a>
+	<br/>
 		<a href="http://mpvue.com" target="_blank" rel="noopener noreferrer">asdasdas</a>
 	</p>
