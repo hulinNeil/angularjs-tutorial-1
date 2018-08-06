@@ -22,3 +22,11 @@ View the [live demo](http://nickckaye.github.io/angularjs-tutorial-1).
 		<span style="margin-top:15px;">小程序码</span>
 	</div>
 </div>
+<div>
+	<a>
+		<img src="https://img.cdn.aliyun.dcloud.net.cn/guide/uniapp/app_download.png" width="200"/>
+	</a>
+	<a>
+		<img src="https://img.cdn.aliyun.dcloud.net.cn/guide/uniapp/gh_33446d7f7a26_430.jpg" width="200"/>
+	</a>
+</div>
