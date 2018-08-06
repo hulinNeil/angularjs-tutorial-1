@@ -7,7 +7,7 @@ author: [Nick Kaye](http://www.nickkaye.com)
 
 View the [live demo](http://nickckaye.github.io/angularjs-tutorial-1).
 
-<p align="center">
+<p align="center" class="qwr">
 	<p align="left">
 		<img src="https://img.cdn.aliyun.dcloud.net.cn/guide/uniapp/app_download.png" width="200"/>
 		<br/>
