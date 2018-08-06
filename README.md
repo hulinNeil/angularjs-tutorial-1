@@ -25,8 +25,12 @@ View the [live demo](http://nickckaye.github.io/angularjs-tutorial-1).
 <div>
 	<a>
 		<img src="https://img.cdn.aliyun.dcloud.net.cn/guide/uniapp/app_download.png" width="200"/>
+		<br/>
+		<span>appma</span>
 	</a>
 	<a>
 		<img src="https://img.cdn.aliyun.dcloud.net.cn/guide/uniapp/gh_33446d7f7a26_430.jpg" width="200"/>
+		<br/>
+		<span>appma</span>
 	</a>
 </div>
