@@ -17,4 +17,4 @@ View the [live demo](http://nickckaye.github.io/angularjs-tutorial-1).
 		<a href="http://mpvue.com" target="_blank" rel="noopener noreferrer">asdasdas</a>
 	</p>
 	
-	<img src="https://img-cdn-qiniu.dcloud.net.cn/img/test.png">
+<img src="https://img-cdn-qiniu.dcloud.net.cn/img/test.png" />
